@@ -8,14 +8,13 @@ import { ContactComponent } from './contact/contact.component';
 import { AboutComponent } from './about/about.component';
 import { AuthGuard } from './auth-guard.guard';
 import { RouterModule } from '@angular/router';
-import { ObservablesComponent } from './observables/observables.component';
 @NgModule({
   declarations: [
     AppComponent,
     HomeComponent,
     ContactComponent,
     AboutComponent,
-    ObservablesComponent,
+    
    
   ],
   imports: [
