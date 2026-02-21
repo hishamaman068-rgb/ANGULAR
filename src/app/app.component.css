@@ -1,0 +1,16 @@
+.navv{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: beige;
+}
+
+.ul{
+    display:flex;
+   list-style-type:none;
+}
+
+.ul{
+    padding:5px;
+    gap:20px;
+}
